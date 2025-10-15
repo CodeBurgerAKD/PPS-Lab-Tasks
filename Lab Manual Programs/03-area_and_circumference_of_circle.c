@@ -5,7 +5,7 @@
 int main(){
     double radius,circumference,area;
     printf("Enter the radius of circle ");
-    scanf("%lf",&r);
+    scanf("%lf",&radius);
 
 
     circumference = (2*22*radius)/7;
